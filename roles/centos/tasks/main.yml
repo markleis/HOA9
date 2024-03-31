@@ -15,7 +15,7 @@
 
 - name: prometheus service file
   copy:
-    src: /home/berja/HOA9/files/prometheus.service
+    src: /home/leis/HOA9/files/prometheus.service
     dest: /etc/systemd/system/
     mode: 0644
     owner: root
