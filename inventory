@@ -1,5 +1,5 @@
 [centos]
-192.168.56.111 ansible_user=berja
+192.168.56.111 ansible_user=leis
 
 [ubuntu]
-192.168.56.116 ansible_user=berja
+192.168.56.116 ansible_user=leis
